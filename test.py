@@ -5,7 +5,7 @@ import networkx as nx
 import matplotlib.pyplot as plt
 
 # ---- path to the saved IOI circuit ----
-PT_PATH = r"C:\Users\danii\OneDrive\Documents\GitHub\llm_research\formal-functional-dissociation\graphs\EAP-IG-inputs\gpt2\ewok-social-relations.pt"
+PT_PATH = ##"output/ioi_gpt2_circuit.pt"  # CHANGE THIS to your path
 assert os.path.exists(PT_PATH), f"Not found: {PT_PATH}"
 
 d = torch.load(PT_PATH, map_location="cpu")

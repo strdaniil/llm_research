@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from collections import defaultdict
 
 # Load your .pt file
-path = r"C:\Users\danii\OneDrive\Documents\GitHub\llm_research\formal-functional-dissociation\graphs\EAP-IG-inputs\gpt2\ewok-social-relations.pt"
+path = ###"output/ioi_gpt2_circuit.pt"  # CHANGE THIS to your path
 graph_data = torch.load(path, map_location="cpu")
 
 src_nodes = graph_data['src_nodes']
