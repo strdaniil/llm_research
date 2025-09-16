@@ -1,0 +1,391 @@
+context,plausible,implausible
+Mohammed pays salary to Carmen.,Carmen is Mohammed's subordinate.,Mohammed is Carmen's subordinate.
+Carmen pays salary to Mohammed.,Mohammed is Carmen's subordinate.,Carmen is Mohammed's subordinate.
+Carmen gets orders from Mohammed.,Mohammed is Carmen's boss.,Carmen is Mohammed's boss.
+Mohammed gets orders from Carmen.,Carmen is Mohammed's boss.,Mohammed is Carmen's boss.
+Chao pays salary to Yan.,Yan is Chao's subordinate.,Chao is Yan's subordinate.
+Yan pays salary to Chao.,Chao is Yan's subordinate.,Yan is Chao's subordinate.
+Li has a lot of power over Maria.,Li is Maria's boss.,Maria is Li's boss.
+Maria has a lot of power over Li.,Maria is Li's boss.,Li is Maria's boss.
+Carmen gets orders from Mohammed.,Carmen is Mohammed's subordinate.,Mohammed is Carmen's subordinate.
+Mohammed gets orders from Carmen.,Mohammed is Carmen's subordinate.,Carmen is Mohammed's subordinate.
+Mohammed pays salary to Carmen.,Mohammed is Carmen's boss.,Mohammed is Carmen's subordinate.
+Mohammed receives salary from Carmen.,Mohammed is Carmen's subordinate.,Mohammed is Carmen's boss.
+Ali has a lot of power over Wei.,Ali is Wei's boss.,Ali is Wei's subordinate.
+Wei has a lot of power over Ali.,Ali is Wei's subordinate.,Ali is Wei's boss.
+Mohammed is at a later career stage than Carmen.,Mohammed is Carmen's boss.,Carmen is Mohammed's boss.
+Mohammed is at an earlier career stage than Carmen.,Carmen is Mohammed's boss.,Mohammed is Carmen's boss.
+Yan receives salary from Chao.,Yan is Chao's subordinate.,Chao is Yan's subordinate.
+Chao receives salary from Yan.,Chao is Yan's subordinate.,Yan is Chao's subordinate.
+Li gives orders to Maria.,Li is Maria's boss.,Li is Maria's subordinate.
+Li gets orders from Maria.,Li is Maria's subordinate.,Li is Maria's boss.
+Alex has little power over Jesse.,Alex is Jesse's subordinate.,Jesse is Alex's subordinate.
+Jesse has little power over Alex.,Jesse is Alex's subordinate.,Alex is Jesse's subordinate.
+Chao has a lot of power over Yan.,Chao is Yan's boss.,Chao is Yan's subordinate.
+Chao has little power over Yan.,Chao is Yan's subordinate.,Chao is Yan's boss.
+Li has a lot of power over Maria.,Li is Maria's boss.,Li is Maria's subordinate.
+Li has little power over Maria.,Li is Maria's subordinate.,Li is Maria's boss.
+Ali pays salary to Wei.,Wei is Ali's subordinate.,Ali is Wei's subordinate.
+Ali receives salary from Wei.,Ali is Wei's subordinate.,Wei is Ali's subordinate.
+Jesse is Alex's employer.,Alex is Jesse's subordinate.,Jesse is Alex's subordinate.
+Alex is Jesse's employer.,Jesse is Alex's subordinate.,Alex is Jesse's subordinate.
+Jesse has a lot of power over Alex.,Jesse is Alex's boss.,Alex is Jesse's boss.
+Jesse has little power over Alex.,Alex is Jesse's boss.,Jesse is Alex's boss.
+Carmen has little power over Mohammed.,Carmen is Mohammed's subordinate.,Mohammed is Carmen's subordinate.
+Mohammed has little power over Carmen.,Mohammed is Carmen's subordinate.,Carmen is Mohammed's subordinate.
+Mohammed gives orders to Carmen.,Carmen is Mohammed's subordinate.,Mohammed is Carmen's subordinate.
+Mohammed gets orders from Carmen.,Mohammed is Carmen's subordinate.,Carmen is Mohammed's subordinate.
+Chao pays salary to Yan.,Chao is Yan's boss.,Yan is Chao's boss.
+Chao receives salary from Yan.,Yan is Chao's boss.,Chao is Yan's boss.
+Chao pays salary to Yan.,Chao is Yan's boss.,Chao is Yan's subordinate.
+Yan pays salary to Chao.,Chao is Yan's subordinate.,Chao is Yan's boss.
+Li gives orders to Maria.,Li is Maria's boss.,Maria is Li's boss.
+Li gets orders from Maria.,Maria is Li's boss.,Li is Maria's boss.
+Yan is Chao's employee.,Chao is Yan's boss.,Yan is Chao's boss.
+Chao is Yan's employee.,Yan is Chao's boss.,Chao is Yan's boss.
+Li pays salary to Maria.,Li is Maria's boss.,Li is Maria's subordinate.
+Maria pays salary to Li.,Li is Maria's subordinate.,Li is Maria's boss.
+Ali is at a later career stage than Wei.,Wei is Ali's subordinate.,Ali is Wei's subordinate.
+Ali is at an earlier career stage than Wei.,Ali is Wei's subordinate.,Wei is Ali's subordinate.
+Chao has a lot of power over Yan.,Yan is Chao's subordinate.,Chao is Yan's subordinate.
+Yan has a lot of power over Chao.,Chao is Yan's subordinate.,Yan is Chao's subordinate.
+Wei has little power over Ali.,Wei is Ali's subordinate.,Ali is Wei's subordinate.
+Ali has little power over Wei.,Ali is Wei's subordinate.,Wei is Ali's subordinate.
+Ali gives orders to Wei.,Ali is Wei's boss.,Ali is Wei's subordinate.
+Wei gives orders to Ali.,Ali is Wei's subordinate.,Ali is Wei's boss.
+Chao is Yan's employer.,Yan is Chao's subordinate.,Chao is Yan's subordinate.
+Chao is Yan's employee.,Chao is Yan's subordinate.,Yan is Chao's subordinate.
+Mohammed pays salary to Carmen.,Mohammed is Carmen's boss.,Mohammed is Carmen's subordinate.
+Carmen pays salary to Mohammed.,Mohammed is Carmen's subordinate.,Mohammed is Carmen's boss.
+Chao pays salary to Yan.,Chao is Yan's boss.,Chao is Yan's subordinate.
+Chao receives salary from Yan.,Chao is Yan's subordinate.,Chao is Yan's boss.
+Mohammed is Carmen's employer.,Mohammed is Carmen's boss.,Carmen is Mohammed's boss.
+Mohammed is Carmen's employee.,Carmen is Mohammed's boss.,Mohammed is Carmen's boss.
+Yan has little power over Chao.,Chao is Yan's boss.,Chao is Yan's subordinate.
+Chao has little power over Yan.,Chao is Yan's subordinate.,Chao is Yan's boss.
+Ali is Wei's employer.,Wei is Ali's subordinate.,Ali is Wei's subordinate.
+Ali is Wei's employee.,Ali is Wei's subordinate.,Wei is Ali's subordinate.
+Ali pays salary to Wei.,Ali is Wei's boss.,Ali is Wei's subordinate.
+Ali receives salary from Wei.,Ali is Wei's subordinate.,Ali is Wei's boss.
+Jesse is Alex's employer.,Jesse is Alex's boss.,Jesse is Alex's subordinate.
+Alex is Jesse's employer.,Jesse is Alex's subordinate.,Jesse is Alex's boss.
+Yan receives salary from Chao.,Chao is Yan's boss.,Yan is Chao's boss.
+Chao receives salary from Yan.,Yan is Chao's boss.,Chao is Yan's boss.
+Wei gets orders from Ali.,Ali is Wei's boss.,Ali is Wei's subordinate.
+Ali gets orders from Wei.,Ali is Wei's subordinate.,Ali is Wei's boss.
+Ali has a lot of power over Wei.,Ali is Wei's boss.,Wei is Ali's boss.
+Wei has a lot of power over Ali.,Wei is Ali's boss.,Ali is Wei's boss.
+Maria receives salary from Li.,Maria is Li's subordinate.,Li is Maria's subordinate.
+Li receives salary from Maria.,Li is Maria's subordinate.,Maria is Li's subordinate.
+Alex gets orders from Jesse.,Jesse is Alex's boss.,Alex is Jesse's boss.
+Jesse gets orders from Alex.,Alex is Jesse's boss.,Jesse is Alex's boss.
+Jesse pays salary to Alex.,Jesse is Alex's boss.,Alex is Jesse's boss.
+Alex pays salary to Jesse.,Alex is Jesse's boss.,Jesse is Alex's boss.
+Jesse is Alex's employer.,Jesse is Alex's boss.,Jesse is Alex's subordinate.
+Jesse is Alex's employee.,Jesse is Alex's subordinate.,Jesse is Alex's boss.
+Carmen receives salary from Mohammed.,Mohammed is Carmen's boss.,Carmen is Mohammed's boss.
+Mohammed receives salary from Carmen.,Carmen is Mohammed's boss.,Mohammed is Carmen's boss.
+Jesse pays salary to Alex.,Jesse is Alex's boss.,Jesse is Alex's subordinate.
+Alex pays salary to Jesse.,Jesse is Alex's subordinate.,Jesse is Alex's boss.
+Mohammed has a lot of power over Carmen.,Carmen is Mohammed's subordinate.,Mohammed is Carmen's subordinate.
+Carmen has a lot of power over Mohammed.,Mohammed is Carmen's subordinate.,Carmen is Mohammed's subordinate.
+Mohammed has a lot of power over Carmen.,Mohammed is Carmen's boss.,Carmen is Mohammed's boss.
+Carmen has a lot of power over Mohammed.,Carmen is Mohammed's boss.,Mohammed is Carmen's boss.
+Carmen has little power over Mohammed.,Mohammed is Carmen's boss.,Carmen is Mohammed's boss.
+Mohammed has little power over Carmen.,Carmen is Mohammed's boss.,Mohammed is Carmen's boss.
+Ali pays salary to Wei.,Ali is Wei's boss.,Wei is Ali's boss.
+Ali receives salary from Wei.,Wei is Ali's boss.,Ali is Wei's boss.
+Li has a lot of power over Maria.,Maria is Li's subordinate.,Li is Maria's subordinate.
+Maria has a lot of power over Li.,Li is Maria's subordinate.,Maria is Li's subordinate.
+Ali is Wei's employer.,Ali is Wei's boss.,Ali is Wei's subordinate.
+Ali is Wei's employee.,Ali is Wei's subordinate.,Ali is Wei's boss.
+Li has a lot of power over Maria.,Li is Maria's boss.,Maria is Li's boss.
+Li has little power over Maria.,Maria is Li's boss.,Li is Maria's boss.
+Maria is Li's employee.,Li is Maria's boss.,Li is Maria's subordinate.
+Li is Maria's employee.,Li is Maria's subordinate.,Li is Maria's boss.
+Jesse gives orders to Alex.,Jesse is Alex's boss.,Jesse is Alex's subordinate.
+Alex gives orders to Jesse.,Jesse is Alex's subordinate.,Jesse is Alex's boss.
+Li gives orders to Maria.,Maria is Li's subordinate.,Li is Maria's subordinate.
+Maria gives orders to Li.,Li is Maria's subordinate.,Maria is Li's subordinate.
+Jesse pays salary to Alex.,Alex is Jesse's subordinate.,Jesse is Alex's subordinate.
+Jesse receives salary from Alex.,Jesse is Alex's subordinate.,Alex is Jesse's subordinate.
+Ali has a lot of power over Wei.,Wei is Ali's subordinate.,Ali is Wei's subordinate.
+Wei has a lot of power over Ali.,Ali is Wei's subordinate.,Wei is Ali's subordinate.
+Li pays salary to Maria.,Maria is Li's subordinate.,Li is Maria's subordinate.
+Li receives salary from Maria.,Li is Maria's subordinate.,Maria is Li's subordinate.
+Maria has little power over Li.,Maria is Li's subordinate.,Li is Maria's subordinate.
+Li has little power over Maria.,Li is Maria's subordinate.,Maria is Li's subordinate.
+Li gives orders to Maria.,Li is Maria's boss.,Maria is Li's boss.
+Maria gives orders to Li.,Maria is Li's boss.,Li is Maria's boss.
+Mohammed gives orders to Carmen.,Mohammed is Carmen's boss.,Mohammed is Carmen's subordinate.
+Carmen gives orders to Mohammed.,Mohammed is Carmen's subordinate.,Mohammed is Carmen's boss.
+Chao is Yan's employer.,Yan is Chao's subordinate.,Chao is Yan's subordinate.
+Yan is Chao's employer.,Chao is Yan's subordinate.,Yan is Chao's subordinate.
+Mohammed is Carmen's employer.,Mohammed is Carmen's boss.,Mohammed is Carmen's subordinate.
+Mohammed is Carmen's employee.,Mohammed is Carmen's subordinate.,Mohammed is Carmen's boss.
+Jesse is at a later career stage than Alex.,Jesse is Alex's boss.,Jesse is Alex's subordinate.
+Jesse is at an earlier career stage than Alex.,Jesse is Alex's subordinate.,Jesse is Alex's boss.
+Ali is Wei's employer.,Ali is Wei's boss.,Wei is Ali's boss.
+Ali is Wei's employee.,Wei is Ali's boss.,Ali is Wei's boss.
+Li is Maria's employer.,Li is Maria's boss.,Li is Maria's subordinate.
+Li is Maria's employee.,Li is Maria's subordinate.,Li is Maria's boss.
+Ali gives orders to Wei.,Ali is Wei's boss.,Wei is Ali's boss.
+Wei gives orders to Ali.,Wei is Ali's boss.,Ali is Wei's boss.
+Wei receives salary from Ali.,Ali is Wei's boss.,Wei is Ali's boss.
+Ali receives salary from Wei.,Wei is Ali's boss.,Ali is Wei's boss.
+Jesse is Alex's employer.,Jesse is Alex's boss.,Alex is Jesse's boss.
+Jesse is Alex's employee.,Alex is Jesse's boss.,Jesse is Alex's boss.
+Wei is Ali's employee.,Ali is Wei's boss.,Ali is Wei's subordinate.
+Ali is Wei's employee.,Ali is Wei's subordinate.,Ali is Wei's boss.
+Mohammed is Carmen's employer.,Carmen is Mohammed's subordinate.,Mohammed is Carmen's subordinate.
+Mohammed is Carmen's employee.,Mohammed is Carmen's subordinate.,Carmen is Mohammed's subordinate.
+Jesse has a lot of power over Alex.,Jesse is Alex's boss.,Alex is Jesse's boss.
+Alex has a lot of power over Jesse.,Alex is Jesse's boss.,Jesse is Alex's boss.
+Carmen gets orders from Mohammed.,Mohammed is Carmen's boss.,Mohammed is Carmen's subordinate.
+Mohammed gets orders from Carmen.,Mohammed is Carmen's subordinate.,Mohammed is Carmen's boss.
+Chao gives orders to Yan.,Chao is Yan's boss.,Chao is Yan's subordinate.
+Chao gets orders from Yan.,Chao is Yan's subordinate.,Chao is Yan's boss.
+Alex has little power over Jesse.,Jesse is Alex's boss.,Jesse is Alex's subordinate.
+Jesse has little power over Alex.,Jesse is Alex's subordinate.,Jesse is Alex's boss.
+Chao pays salary to Yan.,Yan is Chao's subordinate.,Chao is Yan's subordinate.
+Chao receives salary from Yan.,Chao is Yan's subordinate.,Yan is Chao's subordinate.
+Maria gets orders from Li.,Li is Maria's boss.,Li is Maria's subordinate.
+Li gets orders from Maria.,Li is Maria's subordinate.,Li is Maria's boss.
+Li is at a later career stage than Maria.,Li is Maria's boss.,Li is Maria's subordinate.
+Li is at an earlier career stage than Maria.,Li is Maria's subordinate.,Li is Maria's boss.
+Maria has little power over Li.,Li is Maria's boss.,Li is Maria's subordinate.
+Li has little power over Maria.,Li is Maria's subordinate.,Li is Maria's boss.
+Chao gives orders to Yan.,Chao is Yan's boss.,Yan is Chao's boss.
+Chao gets orders from Yan.,Yan is Chao's boss.,Chao is Yan's boss.
+Chao has a lot of power over Yan.,Yan is Chao's subordinate.,Chao is Yan's subordinate.
+Chao has little power over Yan.,Chao is Yan's subordinate.,Yan is Chao's subordinate.
+Li is Maria's employer.,Li is Maria's boss.,Li is Maria's subordinate.
+Maria is Li's employer.,Li is Maria's subordinate.,Li is Maria's boss.
+Li pays salary to Maria.,Li is Maria's boss.,Li is Maria's subordinate.
+Li receives salary from Maria.,Li is Maria's subordinate.,Li is Maria's boss.
+Mohammed is Carmen's employer.,Mohammed is Carmen's boss.,Mohammed is Carmen's subordinate.
+Carmen is Mohammed's employer.,Mohammed is Carmen's subordinate.,Mohammed is Carmen's boss.
+Wei gets orders from Ali.,Ali is Wei's boss.,Wei is Ali's boss.
+Ali gets orders from Wei.,Wei is Ali's boss.,Ali is Wei's boss.
+Chao gives orders to Yan.,Yan is Chao's subordinate.,Chao is Yan's subordinate.
+Yan gives orders to Chao.,Chao is Yan's subordinate.,Yan is Chao's subordinate.
+Ali is Wei's employer.,Wei is Ali's subordinate.,Ali is Wei's subordinate.
+Wei is Ali's employer.,Ali is Wei's subordinate.,Wei is Ali's subordinate.
+Chao is at a later career stage than Yan.,Chao is Yan's boss.,Chao is Yan's subordinate.
+Chao is at an earlier career stage than Yan.,Chao is Yan's subordinate.,Chao is Yan's boss.
+Mohammed is at a later career stage than Carmen.,Carmen is Mohammed's subordinate.,Mohammed is Carmen's subordinate.
+Mohammed is at an earlier career stage than Carmen.,Mohammed is Carmen's subordinate.,Carmen is Mohammed's subordinate.
+Alex is Jesse's employee.,Jesse is Alex's boss.,Alex is Jesse's boss.
+Jesse is Alex's employee.,Alex is Jesse's boss.,Jesse is Alex's boss.
+Maria gets orders from Li.,Maria is Li's subordinate.,Li is Maria's subordinate.
+Li gets orders from Maria.,Li is Maria's subordinate.,Maria is Li's subordinate.
+Ali has a lot of power over Wei.,Wei is Ali's subordinate.,Ali is Wei's subordinate.
+Ali has little power over Wei.,Ali is Wei's subordinate.,Wei is Ali's subordinate.
+Alex receives salary from Jesse.,Alex is Jesse's subordinate.,Jesse is Alex's subordinate.
+Jesse receives salary from Alex.,Jesse is Alex's subordinate.,Alex is Jesse's subordinate.
+Jesse is at a later career stage than Alex.,Alex is Jesse's subordinate.,Jesse is Alex's subordinate.
+Jesse is at an earlier career stage than Alex.,Jesse is Alex's subordinate.,Alex is Jesse's subordinate.
+Ali pays salary to Wei.,Wei is Ali's subordinate.,Ali is Wei's subordinate.
+Wei pays salary to Ali.,Ali is Wei's subordinate.,Wei is Ali's subordinate.
+Maria has little power over Li.,Li is Maria's boss.,Maria is Li's boss.
+Li has little power over Maria.,Maria is Li's boss.,Li is Maria's boss.
+Jesse gives orders to Alex.,Jesse is Alex's boss.,Alex is Jesse's boss.
+Alex gives orders to Jesse.,Alex is Jesse's boss.,Jesse is Alex's boss.
+Carmen receives salary from Mohammed.,Carmen is Mohammed's subordinate.,Mohammed is Carmen's subordinate.
+Mohammed receives salary from Carmen.,Mohammed is Carmen's subordinate.,Carmen is Mohammed's subordinate.
+Alex gets orders from Jesse.,Alex is Jesse's subordinate.,Jesse is Alex's subordinate.
+Jesse gets orders from Alex.,Jesse is Alex's subordinate.,Alex is Jesse's subordinate.
+Yan gets orders from Chao.,Yan is Chao's subordinate.,Chao is Yan's subordinate.
+Chao gets orders from Yan.,Chao is Yan's subordinate.,Yan is Chao's subordinate.
+Jesse is Alex's employer.,Jesse is Alex's boss.,Alex is Jesse's boss.
+Alex is Jesse's employer.,Alex is Jesse's boss.,Jesse is Alex's boss.
+Yan is Chao's employee.,Yan is Chao's subordinate.,Chao is Yan's subordinate.
+Chao is Yan's employee.,Chao is Yan's subordinate.,Yan is Chao's subordinate.
+Yan has little power over Chao.,Yan is Chao's subordinate.,Chao is Yan's subordinate.
+Chao has little power over Yan.,Chao is Yan's subordinate.,Yan is Chao's subordinate.
+Li pays salary to Maria.,Li is Maria's boss.,Maria is Li's boss.
+Maria pays salary to Li.,Maria is Li's boss.,Li is Maria's boss.
+Jesse gives orders to Alex.,Jesse is Alex's boss.,Alex is Jesse's boss.
+Jesse gets orders from Alex.,Alex is Jesse's boss.,Jesse is Alex's boss.
+Li has a lot of power over Maria.,Li is Maria's boss.,Li is Maria's subordinate.
+Maria has a lot of power over Li.,Li is Maria's subordinate.,Li is Maria's boss.
+Jesse has a lot of power over Alex.,Jesse is Alex's boss.,Jesse is Alex's subordinate.
+Jesse has little power over Alex.,Jesse is Alex's subordinate.,Jesse is Alex's boss.
+Yan gets orders from Chao.,Chao is Yan's boss.,Yan is Chao's boss.
+Chao gets orders from Yan.,Yan is Chao's boss.,Chao is Yan's boss.
+Mohammed pays salary to Carmen.,Mohammed is Carmen's boss.,Carmen is Mohammed's boss.
+Mohammed receives salary from Carmen.,Carmen is Mohammed's boss.,Mohammed is Carmen's boss.
+Mohammed gives orders to Carmen.,Mohammed is Carmen's boss.,Mohammed is Carmen's subordinate.
+Mohammed gets orders from Carmen.,Mohammed is Carmen's subordinate.,Mohammed is Carmen's boss.
+Carmen is Mohammed's employee.,Carmen is Mohammed's subordinate.,Mohammed is Carmen's subordinate.
+Mohammed is Carmen's employee.,Mohammed is Carmen's subordinate.,Carmen is Mohammed's subordinate.
+Ali is Wei's employer.,Ali is Wei's boss.,Ali is Wei's subordinate.
+Wei is Ali's employer.,Ali is Wei's subordinate.,Ali is Wei's boss.
+Chao pays salary to Yan.,Chao is Yan's boss.,Yan is Chao's boss.
+Yan pays salary to Chao.,Yan is Chao's boss.,Chao is Yan's boss.
+Mohammed gives orders to Carmen.,Carmen is Mohammed's subordinate.,Mohammed is Carmen's subordinate.
+Carmen gives orders to Mohammed.,Mohammed is Carmen's subordinate.,Carmen is Mohammed's subordinate.
+Jesse gives orders to Alex.,Jesse is Alex's boss.,Jesse is Alex's subordinate.
+Jesse gets orders from Alex.,Jesse is Alex's subordinate.,Jesse is Alex's boss.
+Jesse has a lot of power over Alex.,Alex is Jesse's subordinate.,Jesse is Alex's subordinate.
+Jesse has little power over Alex.,Jesse is Alex's subordinate.,Alex is Jesse's subordinate.
+Ali has a lot of power over Wei.,Ali is Wei's boss.,Wei is Ali's boss.
+Ali has little power over Wei.,Wei is Ali's boss.,Ali is Wei's boss.
+Li pays salary to Maria.,Maria is Li's subordinate.,Li is Maria's subordinate.
+Maria pays salary to Li.,Li is Maria's subordinate.,Maria is Li's subordinate.
+Ali pays salary to Wei.,Ali is Wei's boss.,Ali is Wei's subordinate.
+Wei pays salary to Ali.,Ali is Wei's subordinate.,Ali is Wei's boss.
+Jesse pays salary to Alex.,Alex is Jesse's subordinate.,Jesse is Alex's subordinate.
+Alex pays salary to Jesse.,Jesse is Alex's subordinate.,Alex is Jesse's subordinate.
+Alex gets orders from Jesse.,Jesse is Alex's boss.,Jesse is Alex's subordinate.
+Jesse gets orders from Alex.,Jesse is Alex's subordinate.,Jesse is Alex's boss.
+Li pays salary to Maria.,Li is Maria's boss.,Maria is Li's boss.
+Li receives salary from Maria.,Maria is Li's boss.,Li is Maria's boss.
+Li gives orders to Maria.,Li is Maria's boss.,Li is Maria's subordinate.
+Maria gives orders to Li.,Li is Maria's subordinate.,Li is Maria's boss.
+Yan is Chao's employee.,Chao is Yan's boss.,Chao is Yan's subordinate.
+Chao is Yan's employee.,Chao is Yan's subordinate.,Chao is Yan's boss.
+Wei has little power over Ali.,Ali is Wei's boss.,Ali is Wei's subordinate.
+Ali has little power over Wei.,Ali is Wei's subordinate.,Ali is Wei's boss.
+Maria is Li's employee.,Li is Maria's boss.,Maria is Li's boss.
+Li is Maria's employee.,Maria is Li's boss.,Li is Maria's boss.
+Ali gives orders to Wei.,Wei is Ali's subordinate.,Ali is Wei's subordinate.
+Ali gets orders from Wei.,Ali is Wei's subordinate.,Wei is Ali's subordinate.
+Chao has a lot of power over Yan.,Chao is Yan's boss.,Yan is Chao's boss.
+Yan has a lot of power over Chao.,Yan is Chao's boss.,Chao is Yan's boss.
+Li is Maria's employer.,Maria is Li's subordinate.,Li is Maria's subordinate.
+Maria is Li's employer.,Li is Maria's subordinate.,Maria is Li's subordinate.
+Ali pays salary to Wei.,Ali is Wei's boss.,Wei is Ali's boss.
+Wei pays salary to Ali.,Wei is Ali's boss.,Ali is Wei's boss.
+Maria receives salary from Li.,Li is Maria's boss.,Li is Maria's subordinate.
+Li receives salary from Maria.,Li is Maria's subordinate.,Li is Maria's boss.
+Alex is Jesse's employee.,Jesse is Alex's boss.,Jesse is Alex's subordinate.
+Jesse is Alex's employee.,Jesse is Alex's subordinate.,Jesse is Alex's boss.
+Maria gets orders from Li.,Li is Maria's boss.,Maria is Li's boss.
+Li gets orders from Maria.,Maria is Li's boss.,Li is Maria's boss.
+Wei has little power over Ali.,Ali is Wei's boss.,Wei is Ali's boss.
+Ali has little power over Wei.,Wei is Ali's boss.,Ali is Wei's boss.
+Mohammed gives orders to Carmen.,Mohammed is Carmen's boss.,Carmen is Mohammed's boss.
+Mohammed gets orders from Carmen.,Carmen is Mohammed's boss.,Mohammed is Carmen's boss.
+Li is at a later career stage than Maria.,Li is Maria's boss.,Maria is Li's boss.
+Li is at an earlier career stage than Maria.,Maria is Li's boss.,Li is Maria's boss.
+Wei receives salary from Ali.,Wei is Ali's subordinate.,Ali is Wei's subordinate.
+Ali receives salary from Wei.,Ali is Wei's subordinate.,Wei is Ali's subordinate.
+Mohammed is Carmen's employer.,Mohammed is Carmen's boss.,Carmen is Mohammed's boss.
+Carmen is Mohammed's employer.,Carmen is Mohammed's boss.,Mohammed is Carmen's boss.
+Jesse is Alex's employer.,Alex is Jesse's subordinate.,Jesse is Alex's subordinate.
+Jesse is Alex's employee.,Jesse is Alex's subordinate.,Alex is Jesse's subordinate.
+Wei receives salary from Ali.,Ali is Wei's boss.,Ali is Wei's subordinate.
+Ali receives salary from Wei.,Ali is Wei's subordinate.,Ali is Wei's boss.
+Chao is at a later career stage than Yan.,Yan is Chao's subordinate.,Chao is Yan's subordinate.
+Chao is at an earlier career stage than Yan.,Chao is Yan's subordinate.,Yan is Chao's subordinate.
+Carmen has little power over Mohammed.,Mohammed is Carmen's boss.,Mohammed is Carmen's subordinate.
+Mohammed has little power over Carmen.,Mohammed is Carmen's subordinate.,Mohammed is Carmen's boss.
+Chao gives orders to Yan.,Chao is Yan's boss.,Chao is Yan's subordinate.
+Yan gives orders to Chao.,Chao is Yan's subordinate.,Chao is Yan's boss.
+Carmen is Mohammed's employee.,Mohammed is Carmen's boss.,Carmen is Mohammed's boss.
+Mohammed is Carmen's employee.,Carmen is Mohammed's boss.,Mohammed is Carmen's boss.
+Ali is Wei's employer.,Ali is Wei's boss.,Wei is Ali's boss.
+Wei is Ali's employer.,Wei is Ali's boss.,Ali is Wei's boss.
+Yan gets orders from Chao.,Chao is Yan's boss.,Chao is Yan's subordinate.
+Chao gets orders from Yan.,Chao is Yan's subordinate.,Chao is Yan's boss.
+Chao is Yan's employer.,Chao is Yan's boss.,Yan is Chao's boss.
+Chao is Yan's employee.,Yan is Chao's boss.,Chao is Yan's boss.
+Wei gets orders from Ali.,Wei is Ali's subordinate.,Ali is Wei's subordinate.
+Ali gets orders from Wei.,Ali is Wei's subordinate.,Wei is Ali's subordinate.
+Chao gives orders to Yan.,Chao is Yan's boss.,Yan is Chao's boss.
+Yan gives orders to Chao.,Yan is Chao's boss.,Chao is Yan's boss.
+Wei is Ali's employee.,Wei is Ali's subordinate.,Ali is Wei's subordinate.
+Ali is Wei's employee.,Ali is Wei's subordinate.,Wei is Ali's subordinate.
+Li is at a later career stage than Maria.,Maria is Li's subordinate.,Li is Maria's subordinate.
+Li is at an earlier career stage than Maria.,Li is Maria's subordinate.,Maria is Li's subordinate.
+Ali gives orders to Wei.,Ali is Wei's boss.,Ali is Wei's subordinate.
+Ali gets orders from Wei.,Ali is Wei's subordinate.,Ali is Wei's boss.
+Mohammed has a lot of power over Carmen.,Mohammed is Carmen's boss.,Mohammed is Carmen's subordinate.
+Mohammed has little power over Carmen.,Mohammed is Carmen's subordinate.,Mohammed is Carmen's boss.
+Li gives orders to Maria.,Maria is Li's subordinate.,Li is Maria's subordinate.
+Li gets orders from Maria.,Li is Maria's subordinate.,Maria is Li's subordinate.
+Chao is Yan's employer.,Chao is Yan's boss.,Chao is Yan's subordinate.
+Chao is Yan's employee.,Chao is Yan's subordinate.,Chao is Yan's boss.
+Carmen receives salary from Mohammed.,Mohammed is Carmen's boss.,Mohammed is Carmen's subordinate.
+Mohammed receives salary from Carmen.,Mohammed is Carmen's subordinate.,Mohammed is Carmen's boss.
+Chao gives orders to Yan.,Yan is Chao's subordinate.,Chao is Yan's subordinate.
+Chao gets orders from Yan.,Chao is Yan's subordinate.,Yan is Chao's subordinate.
+Yan has little power over Chao.,Chao is Yan's boss.,Yan is Chao's boss.
+Chao has little power over Yan.,Yan is Chao's boss.,Chao is Yan's boss.
+Mohammed pays salary to Carmen.,Carmen is Mohammed's subordinate.,Mohammed is Carmen's subordinate.
+Mohammed receives salary from Carmen.,Mohammed is Carmen's subordinate.,Carmen is Mohammed's subordinate.
+Chao is at a later career stage than Yan.,Chao is Yan's boss.,Yan is Chao's boss.
+Chao is at an earlier career stage than Yan.,Yan is Chao's boss.,Chao is Yan's boss.
+Mohammed pays salary to Carmen.,Mohammed is Carmen's boss.,Carmen is Mohammed's boss.
+Carmen pays salary to Mohammed.,Carmen is Mohammed's boss.,Mohammed is Carmen's boss.
+Chao has a lot of power over Yan.,Chao is Yan's boss.,Chao is Yan's subordinate.
+Yan has a lot of power over Chao.,Chao is Yan's subordinate.,Chao is Yan's boss.
+Alex is Jesse's employee.,Alex is Jesse's subordinate.,Jesse is Alex's subordinate.
+Jesse is Alex's employee.,Jesse is Alex's subordinate.,Alex is Jesse's subordinate.
+Alex has little power over Jesse.,Jesse is Alex's boss.,Alex is Jesse's boss.
+Jesse has little power over Alex.,Alex is Jesse's boss.,Jesse is Alex's boss.
+Mohammed is Carmen's employer.,Carmen is Mohammed's subordinate.,Mohammed is Carmen's subordinate.
+Carmen is Mohammed's employer.,Mohammed is Carmen's subordinate.,Carmen is Mohammed's subordinate.
+Chao has a lot of power over Yan.,Chao is Yan's boss.,Yan is Chao's boss.
+Chao has little power over Yan.,Yan is Chao's boss.,Chao is Yan's boss.
+Ali has a lot of power over Wei.,Ali is Wei's boss.,Ali is Wei's subordinate.
+Ali has little power over Wei.,Ali is Wei's subordinate.,Ali is Wei's boss.
+Jesse has a lot of power over Alex.,Alex is Jesse's subordinate.,Jesse is Alex's subordinate.
+Alex has a lot of power over Jesse.,Jesse is Alex's subordinate.,Alex is Jesse's subordinate.
+Jesse has a lot of power over Alex.,Jesse is Alex's boss.,Jesse is Alex's subordinate.
+Alex has a lot of power over Jesse.,Jesse is Alex's subordinate.,Jesse is Alex's boss.
+Jesse is at a later career stage than Alex.,Jesse is Alex's boss.,Alex is Jesse's boss.
+Jesse is at an earlier career stage than Alex.,Alex is Jesse's boss.,Jesse is Alex's boss.
+Wei is Ali's employee.,Ali is Wei's boss.,Wei is Ali's boss.
+Ali is Wei's employee.,Wei is Ali's boss.,Ali is Wei's boss.
+Jesse gives orders to Alex.,Alex is Jesse's subordinate.,Jesse is Alex's subordinate.
+Jesse gets orders from Alex.,Jesse is Alex's subordinate.,Alex is Jesse's subordinate.
+Li is Maria's employer.,Maria is Li's subordinate.,Li is Maria's subordinate.
+Li is Maria's employee.,Li is Maria's subordinate.,Maria is Li's subordinate.
+Mohammed gives orders to Carmen.,Mohammed is Carmen's boss.,Carmen is Mohammed's boss.
+Carmen gives orders to Mohammed.,Carmen is Mohammed's boss.,Mohammed is Carmen's boss.
+Chao is Yan's employer.,Chao is Yan's boss.,Chao is Yan's subordinate.
+Yan is Chao's employer.,Chao is Yan's subordinate.,Chao is Yan's boss.
+Yan receives salary from Chao.,Chao is Yan's boss.,Chao is Yan's subordinate.
+Chao receives salary from Yan.,Chao is Yan's subordinate.,Chao is Yan's boss.
+Alex receives salary from Jesse.,Jesse is Alex's boss.,Jesse is Alex's subordinate.
+Jesse receives salary from Alex.,Jesse is Alex's subordinate.,Jesse is Alex's boss.
+Chao is Yan's employer.,Chao is Yan's boss.,Yan is Chao's boss.
+Yan is Chao's employer.,Yan is Chao's boss.,Chao is Yan's boss.
+Alex receives salary from Jesse.,Jesse is Alex's boss.,Alex is Jesse's boss.
+Jesse receives salary from Alex.,Alex is Jesse's boss.,Jesse is Alex's boss.
+Li is Maria's employer.,Li is Maria's boss.,Maria is Li's boss.
+Li is Maria's employee.,Maria is Li's boss.,Li is Maria's boss.
+Maria receives salary from Li.,Li is Maria's boss.,Maria is Li's boss.
+Li receives salary from Maria.,Maria is Li's boss.,Li is Maria's boss.
+Li is Maria's employer.,Li is Maria's boss.,Maria is Li's boss.
+Maria is Li's employer.,Maria is Li's boss.,Li is Maria's boss.
+Carmen is Mohammed's employee.,Mohammed is Carmen's boss.,Mohammed is Carmen's subordinate.
+Mohammed is Carmen's employee.,Mohammed is Carmen's subordinate.,Mohammed is Carmen's boss.
+Mohammed has a lot of power over Carmen.,Carmen is Mohammed's subordinate.,Mohammed is Carmen's subordinate.
+Mohammed has little power over Carmen.,Mohammed is Carmen's subordinate.,Carmen is Mohammed's subordinate.
+Ali gives orders to Wei.,Wei is Ali's subordinate.,Ali is Wei's subordinate.
+Wei gives orders to Ali.,Ali is Wei's subordinate.,Wei is Ali's subordinate.
+Mohammed has a lot of power over Carmen.,Mohammed is Carmen's boss.,Mohammed is Carmen's subordinate.
+Carmen has a lot of power over Mohammed.,Mohammed is Carmen's subordinate.,Mohammed is Carmen's boss.
+Ali is at a later career stage than Wei.,Ali is Wei's boss.,Ali is Wei's subordinate.
+Ali is at an earlier career stage than Wei.,Ali is Wei's subordinate.,Ali is Wei's boss.
+Jesse pays salary to Alex.,Jesse is Alex's boss.,Alex is Jesse's boss.
+Jesse receives salary from Alex.,Alex is Jesse's boss.,Jesse is Alex's boss.
+Maria is Li's employee.,Maria is Li's subordinate.,Li is Maria's subordinate.
+Li is Maria's employee.,Li is Maria's subordinate.,Maria is Li's subordinate.
+Mohammed is at a later career stage than Carmen.,Mohammed is Carmen's boss.,Mohammed is Carmen's subordinate.
+Mohammed is at an earlier career stage than Carmen.,Mohammed is Carmen's subordinate.,Mohammed is Carmen's boss.
+Li has a lot of power over Maria.,Maria is Li's subordinate.,Li is Maria's subordinate.
+Li has little power over Maria.,Li is Maria's subordinate.,Maria is Li's subordinate.
+Mohammed has a lot of power over Carmen.,Mohammed is Carmen's boss.,Carmen is Mohammed's boss.
+Mohammed has little power over Carmen.,Carmen is Mohammed's boss.,Mohammed is Carmen's boss.
+Jesse gives orders to Alex.,Alex is Jesse's subordinate.,Jesse is Alex's subordinate.
+Alex gives orders to Jesse.,Jesse is Alex's subordinate.,Alex is Jesse's subordinate.
+Ali gives orders to Wei.,Ali is Wei's boss.,Wei is Ali's boss.
+Ali gets orders from Wei.,Wei is Ali's boss.,Ali is Wei's boss.
+Ali is at a later career stage than Wei.,Ali is Wei's boss.,Wei is Ali's boss.
+Ali is at an earlier career stage than Wei.,Wei is Ali's boss.,Ali is Wei's boss.
+Jesse pays salary to Alex.,Jesse is Alex's boss.,Jesse is Alex's subordinate.
+Jesse receives salary from Alex.,Jesse is Alex's subordinate.,Jesse is Alex's boss.

@@ -1,0 +1,31 @@
+context,plausible,implausible
+Ali is making Wei's job easier.,Ali is helping Wei.,Ali is hindering Wei.
+Ali is making Wei's job harder.,Ali is hindering Wei.,Ali is helping Wei.
+Ali is removing obstacles in the path of Wei.,Ali is helping Wei.,Ali is hindering Wei.
+Ali is introducing obstacles in the path of Wei.,Ali is hindering Wei.,Ali is helping Wei.
+Mohammed is making Carmen's job easier.,Mohammed is helping Carmen.,Mohammed is hindering Carmen.
+Mohammed is making Carmen's job harder.,Mohammed is hindering Carmen.,Mohammed is helping Carmen.
+Jesse is making Alex's job easier.,Jesse is helping Alex.,Jesse is hindering Alex.
+Jesse is making Alex's job harder.,Jesse is hindering Alex.,Jesse is helping Alex.
+Chao is removing obstacles in the path of Yan.,Chao is helping Yan.,Chao is hindering Yan.
+Chao is introducing obstacles in the path of Yan.,Chao is hindering Yan.,Chao is helping Yan.
+Chao is assisting Yan.,Chao is helping Yan.,Chao is hindering Yan.
+Chao is obstructing Yan.,Chao is hindering Yan.,Chao is helping Yan.
+Chao is making Yan's job easier.,Chao is helping Yan.,Chao is hindering Yan.
+Chao is making Yan's job harder.,Chao is hindering Yan.,Chao is helping Yan.
+Li is making Maria's job easier.,Li is helping Maria.,Li is hindering Maria.
+Li is making Maria's job harder.,Li is hindering Maria.,Li is helping Maria.
+Mohammed is assisting Carmen.,Mohammed is helping Carmen.,Mohammed is hindering Carmen.
+Mohammed is obstructing Carmen.,Mohammed is hindering Carmen.,Mohammed is helping Carmen.
+Jesse is assisting Alex.,Jesse is helping Alex.,Jesse is hindering Alex.
+Jesse is obstructing Alex.,Jesse is hindering Alex.,Jesse is helping Alex.
+Ali is assisting Wei.,Ali is helping Wei.,Ali is hindering Wei.
+Ali is obstructing Wei.,Ali is hindering Wei.,Ali is helping Wei.
+Mohammed is removing obstacles in the path of Carmen.,Mohammed is helping Carmen.,Mohammed is hindering Carmen.
+Mohammed is introducing obstacles in the path of Carmen.,Mohammed is hindering Carmen.,Mohammed is helping Carmen.
+Jesse is removing obstacles in the path of Alex.,Jesse is helping Alex.,Jesse is hindering Alex.
+Jesse is introducing obstacles in the path of Alex.,Jesse is hindering Alex.,Jesse is helping Alex.
+Li is assisting Maria.,Li is helping Maria.,Li is hindering Maria.
+Li is obstructing Maria.,Li is hindering Maria.,Li is helping Maria.
+Li is removing obstacles in the path of Maria.,Li is helping Maria.,Li is hindering Maria.
+Li is introducing obstacles in the path of Maria.,Li is hindering Maria.,Li is helping Maria.
